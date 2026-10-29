@@ -25,7 +25,7 @@ A React-based real estate website with property listings, search and category fi
 - **Live Demo:**
   https://real-state-website-plum-nine.vercel.app/
 - **Source Code;**
-  https://github.com/prithvi12092-maker/REAL-ESTATE-REPO
+  https://github.com/prithvi12092-maker/Real-State-Website
 
   ## 2. E-Commerce Website
 
